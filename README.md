@@ -21,3 +21,6 @@ Power BI; calculated measures; interactive slicers and KPI visuals.
 **Skills demonstrated**
 Budget analysis, variance analysis, financial KPI development, departmental reporting, dashboard design, and business analysis.
 
+
+## Dashboard Screenshot
+![HACA Budget versus Actual Expense Dashboard](./haca-budget.png)
