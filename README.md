@@ -23,4 +23,4 @@ Budget analysis, variance analysis, financial KPI development, departmental repo
 
 
 ## Dashboard Screenshot
-![HACA Budget versus Actual Expense Dashboard](./haca-budget.png)
+![HACA Budget versus Actual Expense Dashboard](./haca-budget.png?v=2)
